@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "7603583D2BD0C11400768751"
+               BuildableName = "ScrollTest.app"
+               BlueprintName = "ScrollTest"
+               ReferencedContainer = "container:ScrollTest.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "YES"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES"
+      customWorkingDirectory = "/Users/vvard3n/Desktop/ScrollTest">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "7603583D2BD0C11400768751"
+            BuildableName = "ScrollTest.app"
+            BlueprintName = "ScrollTest"
+            ReferencedContainer = "container:ScrollTest.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
